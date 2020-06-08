@@ -1,3 +1,6 @@
+# WARNING ⚠
+This is forked from digaus/WifiWizard2, which is forked from the original developer triplex. This was forked for a specific project, in which digaus' commits for location permission (for the getSsid API) were needed. Fork and use at your own risk.
+
 # WiFiWizard2 - 3.1.1<!-- omit in toc -->
 
 Table of Contents<!-- omit in toc -->
